@@ -16,11 +16,20 @@ header {
 }
 
 #smalllogo {
+		display: none;
+	}
+
+
+@media only screen and (min-width: 1000px)
+{
+#smalllogo {
+	display: block;
 		position: relative; 
 		float: left;
 	padding: 1% 1% 1% 15%;
 	max-width: 50%;
 	height: auto;
+	}
 }
 nav {
 	position: relative;
