@@ -40,6 +40,7 @@ nav {
 	flex-wrap: wrap;
 	
 	
+	
 }
 nav a{
 	color: black;
@@ -49,6 +50,7 @@ nav a{
 	margin-top: 3%;
 	text-align: center;
 	text-decoration: none;
+	
 }
 
 #mainview {
@@ -258,7 +260,7 @@ h2 {
 	max-height: 75% auto;
 	
 	/* z-index: -1; */
-	padding-top: 3%;
+	padding-top: 5%;
 	margin: 4% 0% 0% 0%;
 }
 #booknow {
